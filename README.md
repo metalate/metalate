@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on WEB3
+- 🔭 I’m currently working on WEB3 and Developing Minting Sites
 - 🌱 I’m currently learning Developing Minting Sites
 - 💬 Ask me about Scripting and Developing about Desktop Applications
 - 📫 How to reach me with my mail adress: n.enesuguriu@gmail.com
