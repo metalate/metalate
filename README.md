@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on WEB3 and Developing Minting Sites
 - 🌱 I’m currently learning Developing Minting Sites
 - 💬 Ask me about Scripting and Developing about Desktop Applications
-- 📫 How to reach me with my mail adress: n.enesuguriu@gmail.com
+- 📫 If you want to reach me, send mail to my mail adress: n.enesuguriu@gmail.com
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...
